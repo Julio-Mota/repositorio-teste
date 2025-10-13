@@ -6,7 +6,7 @@ Testes:
 
 ### Imagem do Golf Mk3 no jogo GTA: San Andreas:
 
-![Golf Mk3](https://github.com/Julio-Mota/repositorio-teste/blob/main/Golf%20MK3%2022.jpg)
+![Golf Mk3](https://github.com/Julio-Mota/repositorio-teste/blob/main/Golf%20MK3.jpg)
 
 ### Assistir a um vídeo sobre este carro:
 
